@@ -1,14 +1,29 @@
+name: Hiking Hooligan
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.109319
+title: Random thoughts and wanderings
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8781362
-  brandStrength: 0.202509
-  lightness: 0.453405
   brandColors:
     - '#282010'
     - '#FFFFF8'
     - '#B1BFC8'
     - '#B2856D'
     - '#FFC87B'
+  brandStrength: 0.202509
+  lightness: 0.453405
+  saturation: 0.8781362
   rhythmicContrast: 0.5286738
-typography_spectrum: 0.109319
-name: Hiking Hooligan
+purpose: []
